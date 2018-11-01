@@ -1,0 +1,6 @@
+[[http://unmaintained.tech/badge.svg]]
+
+Quick and dirty seeded random number generator I used in some of my personal projects. I'm putting it on github only because it's a dependency for other projects I wanted to upload. I /don't/ know how good it is. If you're looking for a random number library, read these:
+
+- http://www.firstpr.com.au/dsp/rand31/
+- https://github.com/nquinlan/better-random-numbers-for-javascript-mirror
